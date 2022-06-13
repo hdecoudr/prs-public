@@ -16,8 +16,8 @@ The following directives and functions are covered:
 - [barrier](https://www.openmp.org/spec-html/5.0/openmpsu90.html#x121-4550002.17.2)
 - [critical](https://www.openmp.org/spec-html/5.0/openmpsu89.html#x120-4470002.17.1)
 - [atomic](https://www.openmp.org/spec-html/5.0/openmpsu95.html#x126-4840002.17.7)
-- [omp_get_thread_num]https://www.openmp.org/spec-html/5.0/openmpsu113.html#x150-6570003.2.4)
-- [omp_get_thread_num]https://www.openmp.org/spec-html/5.0/openmpsu113.html#x150-6570003.2.4)
+- [omp_get_thread_num](https://www.openmp.org/spec-html/5.0/openmpsu113.html#x150-6570003.2.4)
+- [omp_get_thread_num](https://www.openmp.org/spec-html/5.0/openmpsu113.html#x150-6570003.2.4)
 
 ## Prerequisites
 
