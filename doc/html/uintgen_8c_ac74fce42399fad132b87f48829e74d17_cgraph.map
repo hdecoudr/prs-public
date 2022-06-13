@@ -1,0 +1,4 @@
+<map id="exit_on_argv_error" name="exit_on_argv_error">
+<area shape="rect" id="node1" title="The exit_on_argv_error() function exits the program if the provided arguments are not valid." alt="" coords="5,5,149,32"/>
+<area shape="rect" id="node2" href="$uintgen_8c.html#ae0c6adfd8f66bc3e5530af03efe1b9ec" title="The use() function displays how to use the program." alt="" coords="197,5,243,32"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="main" name="main">
+<area shape="rect" id="node1" title="Main entry point of the program." alt="" coords="5,56,60,83"/>
+<area shape="rect" id="node2" href="$nqueensthrd_8c.html#ac74fce42399fad132b87f48829e74d17" title="The exit_on_argv_error() function exits the program if the provided arguments are not valid." alt="" coords="108,5,252,32"/>
+<area shape="rect" id="node4" href="$nqueensthrd_8c.html#ae8e003ed7c08c664355ef2e6762e7074" title="The exit_on_error() function exits the program if the assertion parameter is evaluated to TRUE." alt="" coords="126,56,234,83"/>
+<area shape="rect" id="node5" href="$nqueensthrd_8c.html#a049da183f5454532a595f977bf713b92" title="The worker() function determines if a configuration of the n&#45;queens problem is valid or not." alt="" coords="147,107,213,133"/>
+<area shape="rect" id="node3" href="$nqueensthrd_8c.html#a5902c5df420c41a93b912cb32defe3ef" title="The use() function displays how to use the program." alt="" coords="316,5,361,32"/>
+<area shape="rect" id="node6" href="$nqueensthrd_8c.html#a15666a00744d2a8c5558b8d4f94ef1f3" title="The nqueens() function finds all possible solutions for the n&#45;queens problem." alt="" coords="300,107,377,133"/>
+<area shape="rect" id="node7" href="$nqueensthrd_8c.html#aaea3b070ae19930ef6aeff6f6dbaa0cf" title="The ok() function checks if a queen is well placed or not." alt="" coords="425,107,464,133"/>
+</map>

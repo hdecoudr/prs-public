@@ -1,0 +1,6 @@
+<map id="indent_empty" name="indent_empty">
+<area shape="rect" id="node1" title="The indent_empty() function indents an empty shell command." alt="" coords="532,5,644,32"/>
+<area shape="rect" id="node2" href="$display_8c.html#af0480de913ff289414f90eb5ab0f8ccd" title="Displays a tree representation of shell commands." alt="" coords="287,5,484,32"/>
+<area shape="rect" id="node3" href="$display_8h.html#ab4d826859f1481893be26536c9988bbd" title="The print_expression() function displays a tree representation of shell commands." alt="" coords="108,5,239,32"/>
+<area shape="rect" id="node4" href="$shelltree_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="Main entry point of the program." alt="" coords="5,5,60,32"/>
+</map>

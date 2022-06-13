@@ -1,0 +1,7 @@
+<map id="main" name="main">
+<area shape="rect" id="node1" title="Main entry point of the program." alt="" coords="5,56,60,83"/>
+<area shape="rect" id="node2" href="$td-5_2calc_8c.html#adda46c8e71cdbeee23325429c8601224" title="The calc() function performs calculations by distributing them in blocks." alt="" coords="156,5,204,32"/>
+<area shape="rect" id="node3" href="$td-5_2calc_8c.html#ac74fce42399fad132b87f48829e74d17" title="The exit_on_argv_error() function exits the program if the provided arguments are not valid." alt="" coords="108,56,252,83"/>
+<area shape="rect" id="node5" href="$td-5_2calc_8c.html#ae8e003ed7c08c664355ef2e6762e7074" title="The exit_on_error() function exits the program if the assertion parameter is evaluated to TRUE." alt="" coords="126,107,234,133"/>
+<area shape="rect" id="node4" href="$td-5_2calc_8c.html#a5902c5df420c41a93b912cb32defe3ef" title="The use() function displays how to use the program." alt="" coords="300,56,345,83"/>
+</map>

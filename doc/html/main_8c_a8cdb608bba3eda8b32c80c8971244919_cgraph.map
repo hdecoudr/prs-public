@@ -1,0 +1,7 @@
+<map id="f" name="f">
+<area shape="rect" id="node1" title="The f() function calls the g() function in order to trigger a SIGSEGV." alt="" coords="5,31,44,57"/>
+<area shape="rect" id="node2" href="$main_8c.html#a5806fbe7d2114068e8085236b6f8098d" title="The g() function triggers a SIGSEGV." alt="" coords="96,5,135,32"/>
+<area shape="rect" id="node3" href="$execsafe_8h.html#a6359bf1ea17bf07503c2499048c0c9a7" title="The test() function registers a signal sig and triggers a function func." alt="" coords="92,56,139,83"/>
+<area shape="rect" id="node4" href="$copybuff_8c.html#ab52d9a2e3dc3615f1ba9b3f180e22267" title="The exit_on_error() function exits the program if the assertion parameter is evaluated to TRUE." alt="" coords="191,31,299,57"/>
+<area shape="rect" id="node5" href="$execsafe_8c.html#a282d6c9466dbd9e7233711419add0774" title="The signal_handler() function restores the stack environment." alt="" coords="187,81,304,108"/>
+</map>

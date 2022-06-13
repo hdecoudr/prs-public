@@ -1,0 +1,5 @@
+<map id="test" name="test">
+<area shape="rect" id="node1" title="The test() function registers a signal sig and triggers a function func." alt="" coords="5,31,52,57"/>
+<area shape="rect" id="node2" href="$copybuff_8c.html#ab52d9a2e3dc3615f1ba9b3f180e22267" title="The exit_on_error() function exits the program if the assertion parameter is evaluated to TRUE." alt="" coords="105,5,213,32"/>
+<area shape="rect" id="node3" href="$execsafe_8c.html#a282d6c9466dbd9e7233711419add0774" title="The signal_handler() function restores the stack environment." alt="" coords="100,56,217,83"/>
+</map>

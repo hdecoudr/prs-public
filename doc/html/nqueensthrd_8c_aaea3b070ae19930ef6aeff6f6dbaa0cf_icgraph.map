@@ -1,0 +1,6 @@
+<map id="ok" name="ok">
+<area shape="rect" id="node1" title="The ok() function checks if a queen is well placed or not." alt="" coords="348,5,387,32"/>
+<area shape="rect" id="node2" href="$nqueensthrd_8c.html#a15666a00744d2a8c5558b8d4f94ef1f3" title="The nqueens() function finds all possible solutions for the n&#45;queens problem." alt="" coords="223,5,300,32"/>
+<area shape="rect" id="node3" href="$nqueensthrd_8c.html#a049da183f5454532a595f977bf713b92" title="The worker() function determines if a configuration of the n&#45;queens problem is valid or not." alt="" coords="108,5,175,32"/>
+<area shape="rect" id="node4" href="$nqueensthrd_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="Main entry point of the program." alt="" coords="5,5,60,32"/>
+</map>

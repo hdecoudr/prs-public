@@ -1,0 +1,4 @@
+<map id="register_all_signals" name="register_all_signals">
+<area shape="rect" id="node1" title="The register_all_signals() function register all possible signals." alt="" coords="5,5,153,32"/>
+<area shape="rect" id="node2" href="$parentchildsignals_8c.html#ae8e003ed7c08c664355ef2e6762e7074" title="The exit_on_error() function exits the program if the assertion parameter is evaluated to TRUE." alt="" coords="201,5,309,32"/>
+</map>

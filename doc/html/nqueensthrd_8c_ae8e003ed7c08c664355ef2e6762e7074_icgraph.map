@@ -1,0 +1,4 @@
+<map id="exit_on_error" name="exit_on_error">
+<area shape="rect" id="node1" title="The exit_on_error() function exits the program if the assertion parameter is evaluated to TRUE." alt="" coords="108,5,216,32"/>
+<area shape="rect" id="node2" href="$nqueensthrd_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="Main entry point of the program." alt="" coords="5,5,60,32"/>
+</map>

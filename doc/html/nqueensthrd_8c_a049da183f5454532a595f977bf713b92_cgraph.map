@@ -1,0 +1,5 @@
+<map id="worker" name="worker">
+<area shape="rect" id="node1" title="The worker() function determines if a configuration of the n&#45;queens problem is valid or not." alt="" coords="5,5,72,32"/>
+<area shape="rect" id="node2" href="$nqueensthrd_8c.html#a15666a00744d2a8c5558b8d4f94ef1f3" title="The nqueens() function finds all possible solutions for the n&#45;queens problem." alt="" coords="120,5,197,32"/>
+<area shape="rect" id="node3" href="$nqueensthrd_8c.html#aaea3b070ae19930ef6aeff6f6dbaa0cf" title="The ok() function checks if a queen is well placed or not." alt="" coords="245,5,284,32"/>
+</map>

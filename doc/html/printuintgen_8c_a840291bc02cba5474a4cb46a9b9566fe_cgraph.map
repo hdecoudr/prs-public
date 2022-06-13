@@ -1,0 +1,5 @@
+<map id="main" name="main">
+<area shape="rect" id="node1" title="Main entry point of the program." alt="" coords="5,31,60,57"/>
+<area shape="rect" id="node2" href="$printuintgen_8c.html#ab52d9a2e3dc3615f1ba9b3f180e22267" title="The exit_on_error() function exits the program if the assertion parameter is evaluated to TRUE." alt="" coords="109,5,217,32"/>
+<area shape="rect" id="node3" href="$printuintgen_8c.html#ae21b116830fe317225139b17d39b1de8" title="The uint_to_string() function converts a natural number into a string representation." alt="" coords="108,56,219,83"/>
+</map>

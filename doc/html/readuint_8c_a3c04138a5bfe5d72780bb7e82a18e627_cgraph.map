@@ -1,0 +1,7 @@
+<map id="main" name="main">
+<area shape="rect" id="node1" title="Main entry point of the program." alt="" coords="5,56,60,83"/>
+<area shape="rect" id="node2" href="$readuint_8c.html#ac74fce42399fad132b87f48829e74d17" title="The exit_on_argv_error() function exits the program if the provided arguments are not valid." alt="" coords="108,5,252,32"/>
+<area shape="rect" id="node4" href="$readuint_8c.html#ab52d9a2e3dc3615f1ba9b3f180e22267" title="The exit_on_error() function exits the program if the assertion parameter is evaluated to TRUE." alt="" coords="126,56,234,83"/>
+<area shape="rect" id="node5" href="$readuint_8c.html#ae21b116830fe317225139b17d39b1de8" title="The uint_to_string() function converts a natural number into a string representation." alt="" coords="125,107,235,133"/>
+<area shape="rect" id="node3" href="$readuint_8c.html#a5902c5df420c41a93b912cb32defe3ef" title="The use() function displays how to use the program." alt="" coords="300,5,345,32"/>
+</map>

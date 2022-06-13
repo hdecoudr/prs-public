@@ -1,0 +1,5 @@
+<map id="nqueens" name="nqueens">
+<area shape="rect" id="node1" title="The nqueens() function finds all possible solutions for the n&#45;queens problem." alt="" coords="5,31,83,57"/>
+<area shape="rect" id="node2" href="$nqueens_8c.html#aa20b4210748c2a1af572f3132bb6ac16" title="The ok() function checks if a queen is well placed or not." alt="" coords="178,5,217,32"/>
+<area shape="rect" id="node3" href="$nqueens_8c.html#a561fb63978b55401ad2f8d36faa57fa3" title="Displays the chessboard on the standard output of the terminal." alt="" coords="131,56,264,83"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="main" name="main">
+<area shape="rect" id="node1" title="Main entry point of the program." alt="" coords="5,195,60,221"/>
+<area shape="rect" id="node2" href="$copybuff_8c.html#acfe110f7dd8bda186567fbd87af82979" title="The delete_io_buffer() function de&#45;allocates a buffer." alt="" coords="120,5,247,32"/>
+<area shape="rect" id="node3" href="$copybuff_8c.html#ac74fce42399fad132b87f48829e74d17" title="The exit_on_argv_error() function exits the program if the provided arguments are not valid." alt="" coords="111,56,255,83"/>
+<area shape="rect" id="node5" href="$copybuff_8c.html#ab52d9a2e3dc3615f1ba9b3f180e22267" title="The exit_on_error() function exits the program if the assertion parameter is evaluated to TRUE." alt="" coords="307,216,415,243"/>
+<area shape="rect" id="node6" href="$copybuff_8c.html#aa807a7c8dc3be504af3f8154f14e5b55" title="The get_io_buffer_read_length() function gets the number of bytes read." alt="" coords="112,158,255,199"/>
+<area shape="rect" id="node7" href="$copybuff_8c.html#a87358bfb90b4ca221ba7dd4c19dbe808" title="The get_io_buffer_size() function gets the size of the buffer." alt="" coords="113,224,253,251"/>
+<area shape="rect" id="node8" href="$copybuff_8c.html#a47ef3ce9387c67c04a59fdf983b2e165" title="The get_io_buffer_value() function gets the bytes stored in the buffer." alt="" coords="108,275,259,301"/>
+<area shape="rect" id="node9" href="$copybuff_8c.html#acc46c1b4f8eec672d270d4152d3b32c0" title="The new_io_buffer() functions allocates a buffer." alt="" coords="127,325,240,352"/>
+<area shape="rect" id="node10" href="$copybuff_8c.html#ac86615c7970f7ff177d5ae5211f7fa28" title="The set_io_buffer_read_length() function sets the number of bytes read." alt="" coords="112,377,255,418"/>
+<area shape="rect" id="node4" href="$copybuff_8c.html#a5902c5df420c41a93b912cb32defe3ef" title="The use() function displays how to use the program." alt="" coords="338,56,383,83"/>
+</map>

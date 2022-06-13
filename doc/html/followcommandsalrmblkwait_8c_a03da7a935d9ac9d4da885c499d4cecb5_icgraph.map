@@ -1,0 +1,5 @@
+<map id="print_state" name="print_state">
+<area shape="rect" id="node1" title="The print_state() function displays the state of each command on the standard output." alt="" coords="273,5,365,32"/>
+<area shape="rect" id="node2" href="$followcommandsalrmblkwait_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="Main entry point of the program." alt="" coords="5,5,60,32"/>
+<area shape="rect" id="node3" href="$followcommandsalrmblkwait_8c.html#a6aa59f98cad89c73966351ad7afb303c" title="The signal_handler() function displays the state of each command on the standard output." alt="" coords="108,31,225,57"/>
+</map>

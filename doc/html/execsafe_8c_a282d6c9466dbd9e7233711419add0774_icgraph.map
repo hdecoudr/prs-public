@@ -1,0 +1,6 @@
+<map id="signal_handler" name="signal_handler">
+<area shape="rect" id="node1" title="The signal_handler() function restores the stack environment." alt="" coords="289,31,407,57"/>
+<area shape="rect" id="node2" href="$execsafe_8c.html#a6359bf1ea17bf07503c2499048c0c9a7" title="The test() function registers a signal sig and triggers a function func." alt="" coords="195,31,241,57"/>
+<area shape="rect" id="node3" href="$main_8c.html#a8cdb608bba3eda8b32c80c8971244919" title="The f() function calls the g() function in order to trigger a SIGSEGV." alt="" coords="108,5,147,32"/>
+<area shape="rect" id="node4" href="$main_8c.html#a840291bc02cba5474a4cb46a9b9566fe" title="Main entry point of the program." alt="" coords="5,31,60,57"/>
+</map>

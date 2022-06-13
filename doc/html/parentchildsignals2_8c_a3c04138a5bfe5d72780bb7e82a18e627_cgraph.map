@@ -1,0 +1,7 @@
+<map id="main" name="main">
+<area shape="rect" id="node1" title="Main entry point of the program." alt="" coords="5,81,60,108"/>
+<area shape="rect" id="node2" href="$parentchildsignals2_8c.html#afcb9e066b39ef853990be407cff0cdc8" title="The child_handler() function displays a message when a signal is intercepted." alt="" coords="127,5,237,32"/>
+<area shape="rect" id="node3" href="$parentchildsignals2_8c.html#ae8e003ed7c08c664355ef2e6762e7074" title="The exit_on_error() function exits the program if the assertion parameter is evaluated to TRUE." alt="" coords="304,107,412,133"/>
+<area shape="rect" id="node4" href="$parentchildsignals2_8c.html#a2419e235094ffad17a7bd3e6cf0f2cb4" title="The parent_handler() function displays a message when a signal is intercepted." alt="" coords="122,107,242,133"/>
+<area shape="rect" id="node5" href="$parentchildsignals2_8c.html#a302ed3d66f96f0cd106873dbb61af21b" title="The register_all_signals() function register all possible signals." alt="" coords="108,157,256,184"/>
+</map>

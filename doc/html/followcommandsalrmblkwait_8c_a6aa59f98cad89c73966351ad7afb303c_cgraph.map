@@ -1,0 +1,4 @@
+<map id="signal_handler" name="signal_handler">
+<area shape="rect" id="node1" title="The signal_handler() function displays the state of each command on the standard output." alt="" coords="5,5,123,32"/>
+<area shape="rect" id="node2" href="$followcommandsalrmblkwait_8c.html#a03da7a935d9ac9d4da885c499d4cecb5" title="The print_state() function displays the state of each command on the standard output." alt="" coords="171,5,263,32"/>
+</map>

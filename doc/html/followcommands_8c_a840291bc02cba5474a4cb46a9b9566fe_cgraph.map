@@ -1,0 +1,7 @@
+<map id="main" name="main">
+<area shape="rect" id="node1" title="Main entry point of the program." alt="" coords="5,81,60,108"/>
+<area shape="rect" id="node2" href="$followcommands_8c.html#ae8e003ed7c08c664355ef2e6762e7074" title="The exit_on_error() function exits the program if the assertion parameter is evaluated to TRUE." alt="" coords="131,5,239,32"/>
+<area shape="rect" id="node3" href="$followcommands_8c.html#ac094026395a0fa6c3be4d91dfc3da4bb" title="The pending_commands() function determines if all commands are terminated or not." alt="" coords="108,56,261,83"/>
+<area shape="rect" id="node4" href="$followcommands_8c.html#a03da7a935d9ac9d4da885c499d4cecb5" title="The print_state() function displays the state of each command on the standard output." alt="" coords="139,107,231,133"/>
+<area shape="rect" id="node5" href="$structstate.html#a1c76aa630720adae27384f0c36042c18" title="State of the command." alt="" coords="137,157,233,184"/>
+</map>

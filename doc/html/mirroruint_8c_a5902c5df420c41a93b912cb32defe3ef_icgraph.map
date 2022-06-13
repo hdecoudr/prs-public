@@ -1,0 +1,5 @@
+<map id="use" name="use">
+<area shape="rect" id="node1" title="The use() function displays how to use the program." alt="" coords="300,5,345,32"/>
+<area shape="rect" id="node2" href="$mirroruint_8c.html#ac74fce42399fad132b87f48829e74d17" title="The exit_on_argv_error() function exits the program if the provided arguments are not valid." alt="" coords="108,5,252,32"/>
+<area shape="rect" id="node3" href="$mirroruint_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="Main entry point of the program." alt="" coords="5,5,60,32"/>
+</map>

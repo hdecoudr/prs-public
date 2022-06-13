@@ -1,0 +1,7 @@
+<map id="main" name="main">
+<area shape="rect" id="node1" title="Main entry point of the program." alt="" coords="5,56,60,83"/>
+<area shape="rect" id="node2" href="$execbeforedelay_8h.html#a60750cb34a7def406ecd199c551304cd" title="The exec_before_delay() function executes the func function within the time specified by the delay pa..." alt="" coords="108,31,252,57"/>
+<area shape="rect" id="node5" href="$yesno_8c.html#ad0925c937717c0a5fa3177797466b6de" title="Gets user input." alt="" coords="136,81,224,108"/>
+<area shape="rect" id="node3" href="$copybuff_8c.html#ab52d9a2e3dc3615f1ba9b3f180e22267" title="The exit_on_error() function exits the program if the assertion parameter is evaluated to TRUE." alt="" coords="305,5,413,32"/>
+<area shape="rect" id="node4" href="$execbeforedelay_8c.html#a6aa59f98cad89c73966351ad7afb303c" title="The signal_handler() function restores the stack environment." alt="" coords="300,56,417,83"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="command_launcher" name="command_launcher">
+<area shape="rect" id="node1" title="The exec_command() function executes a shell command." alt="" coords="5,5,156,32"/>
+<area shape="rect" id="node2" href="$commandlauncher_8c.html#ab52d9a2e3dc3615f1ba9b3f180e22267" title="The exit_on_error() function exits the program if the assertion parameter is evaluated to TRUE." alt="" coords="204,5,312,32"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="main" name="main">
+<area shape="rect" id="node1" title="Main entry point of the program." alt="" coords="5,31,60,57"/>
+<area shape="rect" id="node2" href="$sigint3_8c.html#ae8e003ed7c08c664355ef2e6762e7074" title="The exit_on_error() function exits the program if the assertion parameter is evaluated to TRUE." alt="" coords="113,5,221,32"/>
+<area shape="rect" id="node3" href="$sigint3_8c.html#a6aa59f98cad89c73966351ad7afb303c" title="The signal_handler() function displays a message when a SIGINT is intercepted." alt="" coords="108,56,225,83"/>
+</map>

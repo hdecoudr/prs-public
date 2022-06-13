@@ -1,0 +1,7 @@
+<map id="main" name="main">
+<area shape="rect" id="node1" title="Main entry point of the program." alt="" coords="5,31,60,57"/>
+<area shape="rect" id="node2" href="$system_8c.html#aac4c0f1ffd767ff23dd3fd32507ce567" title="The exec_command() function executes a shell command." alt="" coords="118,5,242,32"/>
+<area shape="rect" id="node4" href="$system_8c.html#ac74fce42399fad132b87f48829e74d17" title="The exit_on_argv_error() function exits the program if the provided arguments are not valid." alt="" coords="108,56,252,83"/>
+<area shape="rect" id="node3" href="$system_8c.html#ab52d9a2e3dc3615f1ba9b3f180e22267" title="The exit_on_error() function exits the program if the assertion parameter is evaluated to TRUE." alt="" coords="300,5,408,32"/>
+<area shape="rect" id="node5" href="$system_8c.html#a5902c5df420c41a93b912cb32defe3ef" title="The use() function displays how to use the program." alt="" coords="331,56,377,83"/>
+</map>

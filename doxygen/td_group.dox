@@ -1,0 +1,115 @@
+/*!
+ * \defgroup td_1_group td-1
+ * \brief First set of exercises.
+ *
+ * These exercises consist of an introduction to input and output.
+ *
+ * The following system calls are covered:
+ *
+ *  - [open](https://man7.org/linux/man-pages/man2/open.2.html)
+ *  - [dup](https://man7.org/linux/man-pages/man2/dup.2.html)
+ *  - [dup2](https://man7.org/linux/man-pages/man2/dup.2.html)
+ *  - [lseek](https://man7.org/linux/man-pages/man2/lseek.2.html)
+ *  - [read](https://man7.org/linux/man-pages/man2/read.2.html)
+ *  - [write](https://man7.org/linux/man-pages/man2/write.2.html)
+ *  - [close](https://man7.org/linux/man-pages/man2/close.2.html)
+ */
+
+/*!
+ * \defgroup td_2_group td-2
+ * \brief Second set of exercises.
+ *
+ * These exercises consist of an introduction to process creation.
+ *
+ * The following system calls and functions are covered:
+ *
+ *  - [mmap](https://man7.org/linux/man-pages/man2/mmap.2.html)
+ *  - [munmap](https://man7.org/linux/man-pages/man2/mmap.2.html)
+ *  - [pipe](https://man7.org/linux/man-pages/man2/pipe.2.html)
+ *  - [fork](https://man7.org/linux/man-pages/man2/fork.2.html)
+ *  - [wait](https://man7.org/linux/man-pages/man2/wait.2.html)
+ *  - [waitpid](https://man7.org/linux/man-pages/man2/wait.2.html)
+ *  - [kill](https://man7.org/linux/man-pages/man2/kill.2.html)
+ *  - [raise](https://man7.org/linux/man-pages/man3/raise.3.html)
+ *  - [read](https://man7.org/linux/man-pages/man2/read.2.html)
+ *  - [write](https://man7.org/linux/man-pages/man2/write.2.html)
+ *  - [close](https://man7.org/linux/man-pages/man2/close.2.html)
+ *  - [execvp](https://man7.org/linux/man-pages/man3/exec.3.html)
+ *  - [system](https://man7.org/linux/man-pages/man3/system.3.html)
+ */
+ 
+/*!
+ * \defgroup td_3_group td-3
+ * \brief Third set of exercises.
+ *
+ * These exercises consist of an introduction to communication between processes.
+ *
+ * The following system calls and functions are covered:
+ *
+ *  - [pipe](https://man7.org/linux/man-pages/man2/pipe.2.html)
+ *  - [pipe2](https://man7.org/linux/man-pages/man2/pipe.2.html)
+ *  - [fork](https://man7.org/linux/man-pages/man2/fork.2.html)
+ *  - [wait](https://man7.org/linux/man-pages/man2/wait.2.html)
+ *  - [open](https://man7.org/linux/man-pages/man2/open.2.html)
+ *  - [dup2](https://man7.org/linux/man-pages/man2/dup.2.html)
+ *  - [lseek](https://man7.org/linux/man-pages/man2/lseek.2.html)
+ *  - [read](https://man7.org/linux/man-pages/man2/read.2.html)
+ *  - [write](https://man7.org/linux/man-pages/man2/write.2.html)
+ *  - [close](https://man7.org/linux/man-pages/man2/close.2.html)
+ *  - [execl](https://man7.org/linux/man-pages/man3/exec.3.html)
+ *  - [execlp](https://man7.org/linux/man-pages/man3/exec.3.html)
+ *  - [execvp](https://man7.org/linux/man-pages/man3/exec.3.html)
+ */
+ 
+/*!
+ * \defgroup td_4_group td-4
+ * \brief Fourth set of exercises.
+ *
+ * These exercises consist of an introduction to signals and stack manipulation.
+ *
+ * The following system calls and functions are covered:
+ *
+ *  - [sigprocmask](https://man7.org/linux/man-pages/man2/sigprocmask.2.html)
+ *  - [sigaction](https://man7.org/linux/man-pages/man2/sigaction.2.html)
+ *  - [sigsuspend](https://man7.org/linux/man-pages/man2/sigsuspend.2.html)
+ *  - [fork](https://man7.org/linux/man-pages/man2/fork.2.html)
+ *  - [waitpid](https://man7.org/linux/man-pages/man2/wait.2.html)
+ *  - [kill](https://man7.org/linux/man-pages/man2/kill.2.html)
+ *  - [pause](https://man7.org/linux/man-pages/man2/pause.2.html)
+ *  - [execvp](https://man7.org/linux/man-pages/man3/exec.3.html)
+ *  - [sigemptyset](https://man7.org/linux/man-pages/man3/sigemptyset.3p.html)
+ *  - [sigaddset](https://man7.org/linux/man-pages/man3/sigaddset.3p.html)
+ *  - [setjmp](https://man7.org/linux/man-pages/man3/setjmp.3.html)
+ *  - [longjmp](https://man7.org/linux/man-pages/man3/longjmp.3p.html)
+ */
+ 
+/*!
+ * \defgroup td_5_group td-5
+ * \brief Fifth set of exercises.
+ *
+ * These exercises consist of an introduction to threads.
+ *
+ * The following system calls are covered:
+ *   
+ *  - [pthread_create](https://man7.org/linux/man-pages/man3/pthread_create.3.html)
+ *  - [pthread_join](https://man7.org/linux/man-pages/man3/pthread_join.3.html)
+ *  - [pthread_mutex_lock](https://man7.org/linux/man-pages/man3/pthread_mutex_lock.3p.html)
+ *  - [pthread_mutex_unlock](https://man7.org/linux/man-pages/man3/pthread_mutex_lock.3p.html)
+ */
+ 
+/*!
+ * \defgroup td_6_group td-6
+ * \brief Sixth set of exercises.
+ *
+ * These exercises consist of an introduction to [OpenMP](https://www.openmp.org/).
+ *
+ * The following directives and functions are covered:
+ *
+ *  - [parallel](https://www.openmp.org/spec-html/5.0/openmpse14.html#x54-800002.6)
+ *  - [barrier](https://www.openmp.org/spec-html/5.0/openmpsu90.html#x121-4550002.17.2)
+ *  - [critical](https://www.openmp.org/spec-html/5.0/openmpsu89.html#x120-4470002.17.1)
+ *  - [atomic](https://www.openmp.org/spec-html/5.0/openmpsu95.html#x126-4840002.17.7)
+ *  - [omp_get_thread_num]https://www.openmp.org/spec-html/5.0/openmpsu113.html#x150-6570003.2.4)
+ *  - [omp_get_thread_num]https://www.openmp.org/spec-html/5.0/openmpsu113.html#x150-6570003.2.4)
+ */
+

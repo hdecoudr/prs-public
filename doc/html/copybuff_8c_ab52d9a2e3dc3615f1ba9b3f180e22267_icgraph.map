@@ -1,0 +1,10 @@
+<map id="exit_on_error" name="exit_on_error">
+<area shape="rect" id="node1" title="The exit_on_error() function exits the program if the assertion parameter is evaluated to TRUE." alt="" coords="403,81,511,108"/>
+<area shape="rect" id="node2" href="$execbeforedelay_8c.html#a60750cb34a7def406ecd199c551304cd" title="The exec_before_delay() function executes the func function within the time specified by the delay pa..." alt="" coords="211,5,355,32"/>
+<area shape="rect" id="node4" href="$copybuff_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="Main entry point of the program." alt="" coords="108,68,163,95"/>
+<area shape="rect" id="node5" href="$copybuff_8c.html#acc46c1b4f8eec672d270d4152d3b32c0" title="The new_io_buffer() functions allocates a buffer." alt="" coords="226,107,339,133"/>
+<area shape="rect" id="node6" href="$execsafe_8c.html#a6359bf1ea17bf07503c2499048c0c9a7" title="The test() function registers a signal sig and triggers a function func." alt="" coords="259,157,306,184"/>
+<area shape="rect" id="node3" href="$yesno_8c.html#a840291bc02cba5474a4cb46a9b9566fe" title="Main entry point of the program." alt="" coords="108,5,163,32"/>
+<area shape="rect" id="node7" href="$main_8c.html#a8cdb608bba3eda8b32c80c8971244919" title="The f() function calls the g() function in order to trigger a SIGSEGV." alt="" coords="116,144,155,171"/>
+<area shape="rect" id="node8" href="$main_8c.html#a840291bc02cba5474a4cb46a9b9566fe" title="Main entry point of the program." alt="" coords="5,169,60,196"/>
+</map>

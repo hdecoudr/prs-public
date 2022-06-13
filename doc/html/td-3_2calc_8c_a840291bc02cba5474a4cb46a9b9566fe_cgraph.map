@@ -1,0 +1,5 @@
+<map id="main" name="main">
+<area shape="rect" id="node1" title="Main entry point of the program." alt="" coords="5,31,60,57"/>
+<area shape="rect" id="node2" href="$td-3_2calc_8c.html#ab52d9a2e3dc3615f1ba9b3f180e22267" title="The exit_on_error() function exits the program if the assertion parameter is evaluated to TRUE." alt="" coords="123,5,231,32"/>
+<area shape="rect" id="node3" href="$td-3_2calc_8c.html#ad0e920d6aee0c014359825d1281acb83" title="The read_next_double() function reads a double from the standard input." alt="" coords="108,56,247,83"/>
+</map>
