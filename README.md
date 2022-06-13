@@ -36,19 +36,6 @@ Install the following prerequisites:
 sudo apt-get install gcc make gdb
 ```
 
-### Project prerequisites
-
-Install the following prerequisites
-
-* [Valgrind](https://valgrind.org/)
-* [SDL2](https://www.libsdl.org/)
-* [SDL2 Image](https://github.com/libsdl-org/SDL_image)
-* [SDL2 Mixer](https://github.com/libsdl-org/SDL_mixer)
-
-```
-sudo apt-get install valgrind libsdl2-dev libsdl2-image-dev libsdl2-mixer-dev
-```
-
 ### Additional prerequisites
 
 Install the following prerequisites in order to modify the `doxygen`
