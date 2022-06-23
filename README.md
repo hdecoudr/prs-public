@@ -4,7 +4,7 @@
 
 This repository features PRS courses.
 
-### Quick summary
+## Quick summary
 
 This repository contains a set of introductory exercises 
 to system programming under `Linux` organized as follows:
