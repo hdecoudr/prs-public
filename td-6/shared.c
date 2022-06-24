@@ -6,7 +6,7 @@
  * Uses a shared and a private variable.
  *
  * This program uses the following [OpenMP](https://www.openmp.org/)
- * directives:
+ * directive:
  *
  *  - [parallel](https://www.openmp.org/spec-html/5.0/openmpse14.html#x54-800002.6)
  *
@@ -26,7 +26,7 @@
  * Uses a shared and a private variable. 
  *
  * This program uses the following [OpenMP](https://www.openmp.org/)
- * directives:
+ * directive:
  *
  *  - [parallel](https://www.openmp.org/spec-html/5.0/openmpse14.html#x54-800002.6) 
  * 

@@ -6,10 +6,10 @@
  * Displays messages in parallel on the standard output.
  *
  * This program uses the following [OpenMP](https://www.openmp.org/)
- * directives and functions:
+ * directive and function:
  *
  *  - [parallel](https://www.openmp.org/spec-html/5.0/openmpse14.html#x54-800002.6)
- *  - [omp_get_thread_num(void)]https://www.openmp.org/spec-html/5.0/openmpsu113.html#x150-6570003.2.4)
+ *  - [omp_get_thread_num(void)](https://www.openmp.org/spec-html/5.0/openmpsu113.html#x150-6570003.2.4)
  * 
  * \author H. Decoudras
  * \version 1
@@ -27,10 +27,10 @@
  * Displays messages in parallel on the standard output.  
  *
  * This program uses the following [OpenMP](https://www.openmp.org/)
- * directives and functions:
+ * directive and function:
  *
  *  - [parallel](https://www.openmp.org/spec-html/5.0/openmpse14.html#x54-800002.6)
- *  - [omp_get_thread_num(void)]https://www.openmp.org/spec-html/5.0/openmpsu113.html#x150-6570003.2.4)
+ *  - [omp_get_thread_num(void)](https://www.openmp.org/spec-html/5.0/openmpsu113.html#x150-6570003.2.4)
  * 
  * \return [EXIT_SUCCESS](https://man7.org/linux/man-pages/man3/exit.3.html)
  */

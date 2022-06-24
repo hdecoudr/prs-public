@@ -56,7 +56,7 @@ static void exit_on_error(int assertion);
  *  - [wait(int\* wstatus)](https://man7.org/linux/man-pages/man2/wait.2.html)
  *  - [read(int fd, void\* buf, size_t count)](https://man7.org/linux/man-pages/man2/read.2.html)
  *  - [write(int fd, const void\* buf, size_t count)](https://man7.org/linux/man-pages/man2/write.2.html)
- *  - [close(int fd)](https://man7.org/linux/man-pages/man2/close.2.html
+ *  - [close(int fd)](https://man7.org/linux/man-pages/man2/close.2.html)
  *
  * \return The following values can be returned:
  *          - [EXIT_SUCCESS](https://man7.org/linux/man-pages/man3/exit.3.html)

@@ -4,11 +4,11 @@
  *
  * # About
  *
- * The following documentation covers system programming exercises under
- * Linux of the PRS teaching module. 
+ * The following documentation covers the Linux system programming exercises 
+ * of the PRS teaching module. 
  *
- * These exercises consist of an introduction to system programming under
- * Linux and address the following concepts:
+ * These exercises are an introduction to system programming under Linux 
+ * and cover the following concepts:
  *  
  *  - Inputs and outputs;
  *  - Process creation;
@@ -33,7 +33,7 @@
  *
  * # Prerequisites
  *
- * Install the following prerequisites in order to build the exexercises:
+ * Install the following prerequisites in order to build the exercises:
  *
  *  - [GNU GCC](https://gcc.gnu.org/);
  *  - [GNU Make](https://www.gnu.org/software/make/);
@@ -43,8 +43,8 @@
  * sudo apt-get install gcc make gdb
  * ```
  *
- * Additionally, if you want to build the `shelltree` exercise of 
- * the \ref td_2_group module, install the following prerequisites:
+ * Additionally, install the following prerequisites in order to
+ * build the `shelltree` exercise of the \ref td_2_group module:
  *
  *  - [Flex](https://github.com/westes/flex);
  *  - [GNU Bison](https://www.gnu.org/software/bison/);
@@ -54,7 +54,7 @@
  * sudo apt-get install flex bison libreadline-dev
  * ```
  *
- * Finally, install the following prerequisites if you want to modify
+ * Finally, install the following prerequisites in order to modify
  * this documentation:
  *
  *  - [Doxygen](https://doxygen.nl/)
@@ -79,6 +79,16 @@
  *
  * To a source file corresponds an executable with the same name (except for nested
  * directories).
+ *
+ * # Build this documentation
+ *
+ * Navigate to the `doxygen` directory and invoke `doxygen`:
+ *
+ * ```
+ * cd doxygen && doxygen doxygen.conf
+ * ```
+ *
+ * A `doc` directory will be generated at the root of this project.
  *
  * # Execute an exercise
  *

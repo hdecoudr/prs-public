@@ -6,7 +6,7 @@
  * Executes a command and displays its result on the standard
  * output and in a file.
  *
- * This program uses the following system calls and functions:
+ * This program uses the following system calls and function:
  * 
  *  - [pipe(int pipefd[2])](https://man7.org/linux/man-pages/man2/pipe.2.html)
  *  - [fork(void)](https://man7.org/linux/man-pages/man2/fork.2.html)
@@ -84,7 +84,7 @@ static void exit_on_error(int assertion);
  * Executes a command and displays its result on the standard
  * output and in a file.
  *
- * This program uses the following system calls and functions:
+ * This program uses the following system calls and function:
  * 
  *  - [pipe(int pipefd[2])](https://man7.org/linux/man-pages/man2/pipe.2.html)
  *  - [fork(void)](https://man7.org/linux/man-pages/man2/fork.2.html)

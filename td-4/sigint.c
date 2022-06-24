@@ -5,7 +5,7 @@
  *
  * Displays a message when a `SIGINT` is intercepted.
  *
- * This program uses the following system calls and functions:
+ * This program uses the following system call and function:
  *
  *  - [sigaction(int signum, const struct sigaction\* act, struct sigaction\* oldact)](https://man7.org/linux/man-pages/man2/sigaction.2.html)
  *  - [sigemptyset(sigset_t\* set)](https://man7.org/linux/man-pages/man3/sigemptyset.3p.html)
@@ -52,7 +52,7 @@ static void signal_handler(int sig);
  *
  * Displays a message when a `SIGINT` is intercepted.
  *
- * This program uses the following system calls and functions:
+ * This program uses the following system call and function:
  *
  *  - [sigaction(int signum, const struct sigaction\* act, struct sigaction\* oldact)](https://man7.org/linux/man-pages/man2/sigaction.2.html)
  *  - [sigemptyset(sigset_t\* set)](https://man7.org/linux/man-pages/man3/sigemptyset.3p.html)

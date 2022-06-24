@@ -6,7 +6,7 @@
  * Distributes threads in order to process a value.
  *
  * This program uses the following [OpenMP](https://www.openmp.org/)
- * directives:
+ * directive:
  *
  *  - [for](https://www.openmp.org/spec-html/5.0/openmpsu41.html#x64-1290002.9.2)
  *
@@ -27,7 +27,7 @@
  * Distributes threads in order to process a value. 
  * 
  * This program uses the following [OpenMP](https://www.openmp.org/)
- * directives:
+ * directive:
  *
  *  - [for](https://www.openmp.org/spec-html/5.0/openmpsu41.html#x64-1290002.9.2)
  *

@@ -7,12 +7,12 @@
  * of an array only once.
  *
  * This program uses the following [OpenMP](https://www.openmp.org/)
- * directives:
+ * directives and functions:
  *
  *  - [parallel](https://www.openmp.org/spec-html/5.0/openmpse14.html#x54-800002.6)
  *  - [critical](https://www.openmp.org/spec-html/5.0/openmpsu89.html#x120-4470002.17.1)
  *  - [omp_get_num_threads(void)](https://www.openmp.org/spec-html/5.0/openmpsu111.html#x148-6450003.2.2)
- *  - [omp_get_thread_num(void)]https
+ *  - [omp_get_thread_num(void)](https://www.openmp.org/spec-html/5.0/openmpsu113.html#x150-6570003.2.4)
  *
  * \author H. Decoudras
  * \version 1
@@ -39,12 +39,12 @@
  * of an array only once. 
  *
  * This program uses the following [OpenMP](https://www.openmp.org/)
- * directives:
+ * directives and functions:
  *
  *  - [parallel](https://www.openmp.org/spec-html/5.0/openmpse14.html#x54-800002.6)
  *  - [critical](https://www.openmp.org/spec-html/5.0/openmpsu89.html#x120-4470002.17.1)
  *  - [omp_get_num_threads(void)](https://www.openmp.org/spec-html/5.0/openmpsu111.html#x148-6450003.2.2)
- *  - [omp_get_thread_num(void)]https://www.openmp.org/spec-html/5.0/openmpsu113.html#x150-6570003.2.4)
+ *  - [omp_get_thread_num(void)](https://www.openmp.org/spec-html/5.0/openmpsu113.html#x150-6570003.2.4)
  *
  * \return [EXIT_SUCCESS](https://man7.org/linux/man-pages/man3/exit.3.html)
  */

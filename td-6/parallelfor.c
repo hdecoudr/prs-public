@@ -7,7 +7,7 @@
  * of an array only once.
  *
  * This program uses the following [OpenMP](https://www.openmp.org/)
- * directives:
+ * directive:
  *
  *  - [parallel](https://www.openmp.org/spec-html/5.0/openmpse14.html#x54-800002.6)
  *
@@ -36,7 +36,7 @@
  * of an array only once.
  *
  * This program uses the following [OpenMP](https://www.openmp.org/)
- * directives:
+ * directive:
  *
  *  - [parallel](https://www.openmp.org/spec-html/5.0/openmpse14.html#x54-800002.6)
  *

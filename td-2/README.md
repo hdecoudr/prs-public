@@ -8,6 +8,8 @@ This repository features PRS courses.
 
 This directory features the second set of exercises. 
 
+## Quick summary
+
 These exercises consist of an introduction to process creation.
 
 The following system calls and functions are covered:

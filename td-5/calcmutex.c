@@ -5,7 +5,7 @@
  *
  * Accesses a global variable from multiple threads.
  *
- * This program uses the following function:
+ * This program uses the following functions:
  *
  *  - [pthread_create(pthread_t\* thread, const pthread_attr_t\* attr, void\* (\*start_routine)(void\*), void\* arg](https://man7.org/linux/man-pages/man3/pthread_create.3.html)
  *  - [pthread_join(pthread_t thread, void\*\* retval)](https://man7.org/linux/man-pages/man3/pthread_join.3.html)
@@ -104,7 +104,7 @@ static pthread_mutex_t mutex = PTHREAD_MUTEX_INITIALIZER;
  *
  * Accesses a global variable from multiple threads.
  *
- * This program uses the following function:
+ * This program uses the following functions:
  *
  *  - [pthread_create(pthread_t\* thread, const pthread_attr_t\* attr, void\* (\*start_routine)(void\*), void\* arg](https://man7.org/linux/man-pages/man3/pthread_create.3.html)
  *  - [pthread_join(pthread_t thread, void\*\* retval)](https://man7.org/linux/man-pages/man3/pthread_join.3.html)

@@ -197,7 +197,7 @@ static int pending_commands(void);
  *
  * This program uses the following system calls and functions:
  *
- * - [sigaction(int signum, const struct sigaction\* act, struct sigaction\* oldact)](https://man7.org/linux/man-pages/man2/sigaction.2.html)
+ *  - [sigaction(int signum, const struct sigaction\* act, struct sigaction\* oldact)](https://man7.org/linux/man-pages/man2/sigaction.2.html)
  *  - [sigprocmask(int how, const sigset_t\* set, sigset_t\* oldset)](https://man7.org/linux/man-pages/man2/sigprocmask.2.html)
  *  - [fork(void)](https://man7.org/linux/man-pages/man2/fork.2.html)
  *  - [waitpid(pid_t pid, int\* wstatus, int options)](https://man7.org/linux/man-pages/man2/wait.2.html)

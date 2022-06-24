@@ -5,7 +5,7 @@
  *
  * Executes a child process first.
  *
- * This program uses the following system calls and functions:
+ * This program uses the following system calls and function:
  * 
  *  - [fork(void)](https://man7.org/linux/man-pages/man2/fork.2.html)
  *  - [waitpid(pid_t pid, int\* wstatus, int options)](https://man7.org/linux/man-pages/man2/wait.2.html)
@@ -48,7 +48,7 @@ static void exit_on_error(int assertion);
  *
  * Executes a child process first.
  *
- * This program uses the following system calls and functions:
+ * This program uses the following system calls and function:
  * 
  *  - [fork(void)](https://man7.org/linux/man-pages/man2/fork.2.html)
  *  - [waitpid(pid_t pid, int\* wstatus, int options)](https://man7.org/linux/man-pages/man2/wait.2.html)

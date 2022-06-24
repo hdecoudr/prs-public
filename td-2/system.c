@@ -5,7 +5,7 @@
  *
  * Executes a shell command.
  *
- * This program uses the following functions:
+ * This program uses the following function:
  *
  * - [system(const char\* command)](https://man7.org/linux/man-pages/man3/system.3.html)
  *
@@ -72,7 +72,7 @@ static void exec_command(const char* command);
  *
  *Executes a shell command.
  *
- * This program uses the following functions:
+ * This program uses the following function:
  *
  * - [system(const char\* command)](https://man7.org/linux/man-pages/man3/system.3.html)
  *

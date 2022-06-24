@@ -6,7 +6,7 @@
  * Writes a string on the standard output by mixing 
  * a system call and a function of the standard library.
  *
- * This program uses the following system calls:
+ * This program uses the following system call:
  *
  *  - [write(int fd, const void\* buf, size_t count)](https://man7.org/linux/man-pages/man2/write.2.html)
  *
@@ -43,7 +43,7 @@ static void exit_on_error(int assertion);
  * Writes a string on the standard output by mixing 
  * a system call and a function of the standard library.
  *
- * This program uses the following system calls:
+ * This program uses the following system call:
  *
  *  - [write(int fd, const void\* buf, size_t count)](https://man7.org/linux/man-pages/man2/write.2.html)
  *

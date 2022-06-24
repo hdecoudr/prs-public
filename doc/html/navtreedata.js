@@ -26,7 +26,8 @@ var NAVTREE =
     [ "About", "index.html#autotoc_md0", null ],
     [ "Prerequisites", "index.html#autotoc_md1", null ],
     [ "Build the exercises", "index.html#autotoc_md2", null ],
-    [ "Execute an exercise", "index.html#autotoc_md3", null ],
+    [ "Build this documentation", "index.html#autotoc_md3", null ],
+    [ "Execute an exercise", "index.html#autotoc_md4", null ],
     [ "Modules", "modules.html", "modules" ],
     [ "Data Structures", "annotated.html", [
       [ "Data Structures", "annotated.html", "annotated_dup" ],
@@ -55,7 +56,7 @@ var NAVTREEINDEX =
 [
 "annotated.html",
 "followcommandschld_8c.html#afdd6618fd768ba73818a2475fdd312f7a7e35438874ff2c3f15125c58bdf682b5",
-"pipesize_8c.html#a5902c5df420c41a93b912cb32defe3ef"
+"pipesize_8c.html#a3c04138a5bfe5d72780bb7e82a18e627"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';

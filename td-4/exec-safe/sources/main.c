@@ -5,7 +5,7 @@
  * 
  * Triggers a `SIGSEGV` and continue the execution.
  *
- * This program uses the following system calls and functions:
+ * This program uses the following system call and functions:
  *
  *  - [sigaction(int signum, const struct sigaction\* act, struct sigaction\* oldact)](https://man7.org/linux/man-pages/man2/sigaction.2.html)
  *  - [setjmp(jmp_buf env)](https://man7.org/linux/man-pages/man3/setjmp.3.html)
@@ -47,7 +47,7 @@ static volatile int* a = NULL;
  *
  * Triggers a `SIGSEGV` and continue the execution.
  *
- * This program uses the following system calls and functions:
+ * This program uses the following system call and functions:
  *
  *  - [sigaction(int signum, const struct sigaction\* act, struct sigaction\* oldact)](https://man7.org/linux/man-pages/man2/sigaction.2.html)
  *  - [setjmp(jmp_buf env)](https://man7.org/linux/man-pages/man3/setjmp.3.html)

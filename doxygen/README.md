@@ -23,7 +23,7 @@ sudo apt-get install doxygen graphviz
 
 ## How do I get setup?
 
-### Build the exercises
+### Build the documentation
 
 Run the following command to build the documentation:
 

@@ -5,7 +5,7 @@
  *
  * Sends multiple signals to a parent process.
  *
- * This program uses the following system calls and functions:
+ * This program uses the following system calls and function:
  *
  *  - [sigaction(int signum, const struct sigaction\* act, struct sigaction\* oldact)](https://man7.org/linux/man-pages/man2/sigaction.2.html)
  *  - [fork(void)](https://man7.org/linux/man-pages/man2/fork.2.html) 
@@ -93,7 +93,7 @@ static int signals[NSIG];
  *
  * Sends multiple signals to a parent process.
  *
- * This program uses the following system calls and functions:
+ * This program uses the following system calls and function:
  *
  *  - [sigaction(int signum, const struct sigaction\* act, struct sigaction\* oldact)](https://man7.org/linux/man-pages/man2/sigaction.2.html)
  *  - [fork(void)](https://man7.org/linux/man-pages/man2/fork.2.html) 

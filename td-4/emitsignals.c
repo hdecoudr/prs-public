@@ -5,7 +5,7 @@
  *
  * Emits multiple signals to a process.
  *
- * This program uses the following system calls:
+ * This program uses the following system call:
  *
  *  - [kill(pid_t pid, int sig)](https://man7.org/linux/man-pages/man2/kill.2.html) 
  *
@@ -66,7 +66,7 @@ static void exit_on_error(int assertion);
  *
  * Emits multiple signals to a process.
  *
- * This program uses the following system calls:
+ * This program uses the following system call:
  *
  *  - [kill(pid_t pid, int sig)](https://man7.org/linux/man-pages/man2/kill.2.html) 
  *

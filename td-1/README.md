@@ -8,6 +8,8 @@ This repository features PRS courses.
 
 This directory features the first set of exercises. 
 
+## Quick summary
+
 These exercises consist of an introduction to input and output.
 
 The following system calls are covered:

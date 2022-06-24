@@ -5,7 +5,7 @@
  *
  * Executes a shell command.
  *
- * This program use the following system calls and functions:
+ * This program use the following system calls and function:
  *
  * - [fork(void)](https://man7.org/linux/man-pages/man2/fork.2.html)
  * - [wait(int\* wstatus)](https://man7.org/linux/man-pages/man2/wait.2.html)
@@ -76,7 +76,7 @@ static void command_launcher(char** argv);
 /*!
  * \brief Main entry point of the program.
  *
- * This program use the following system calls and functions:
+ * This program use the following system calls and function:
  *
  * - [fork(void)](https://man7.org/linux/man-pages/man2/fork.2.html)
  * - [wait(int\* wstatus)](https://man7.org/linux/man-pages/man2/wait.2.html)

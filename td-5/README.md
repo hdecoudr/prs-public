@@ -8,6 +8,8 @@ This repository features PRS courses.
 
 This directory features the fifth set of exercises. 
 
+## Quick summary
+
 These exercises consist of an introduction to threads.
 
 The following system calls are covered:

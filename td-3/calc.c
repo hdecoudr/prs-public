@@ -9,7 +9,7 @@
  *
  *  - [pipe(int pipefd[2])](https://man7.org/linux/man-pages/man2/pipe.2.html)
  *  - [fork(void)](https://man7.org/linux/man-pages/man2/fork.2.html)
- *  - [wait(int\* wstatus)]https://man7.org/linux/man-pages/man2/wait.2.html)
+ *  - [wait(int\* wstatus)](https://man7.org/linux/man-pages/man2/wait.2.html)
  *  - [open(const char\* pathname, int flags, mode_t mode)](https://man7.org/linux/man-pages/man2/open.2.html)
  *  - [dup2(int oldfd, int newfd)](https://man7.org/linux/man-pages/man2/dup.2.html)
  *  - [write(int fd, const void\* buf, size_t count)](https://man7.org/linux/man-pages/man2/write.2.html)
@@ -114,7 +114,7 @@ static func_ptr func[] = {g1, g2, g3, g4};
  * 
  *  - [pipe(int pipefd[2])](https://man7.org/linux/man-pages/man2/pipe.2.html)
  *  - [fork(void)](https://man7.org/linux/man-pages/man2/fork.2.html)
- *  - [wait(int\* wstatus)]https://man7.org/linux/man-pages/man2/wait.2.html)
+ *  - [wait(int\* wstatus)](https://man7.org/linux/man-pages/man2/wait.2.html)
  *  - [open(const char\* pathname, int flags, mode_t mode)](https://man7.org/linux/man-pages/man2/open.2.html)
  *  - [dup2(int oldfd, int newfd)](https://man7.org/linux/man-pages/man2/dup.2.html)
  *  - [write(int fd, const void\* buf, size_t count)](https://man7.org/linux/man-pages/man2/write.2.html)

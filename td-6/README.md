@@ -8,6 +8,8 @@ This repository features PRS courses.
 
 This directory features the sixth set of exercises. 
 
+## Quick summary
+
 These exercises consist of an introduction to [OpenMP](https://www.openmp.org/).
 
 The following directives and functions are covered:
